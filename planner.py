@@ -13,14 +13,14 @@ def perfect_day(weather):
 ##    If the weather is sunny, it should suggest going for a bike ride.
 ##    (Requires 3 tests, they haven't been written yet)
 
-## 3. Temperatures tend to fluctuate in your city. Write a function that takes in two arguments: weather, and temperature. 
+## 3. Temperatures tend to fluctuate in your city. Write a function called `temp_check` that takes in two arguments: weather, and temperature. 
 ##    Like the previous function, it should recommend an activity based on the weather conditions. 
 ##    Additionally, it should suggest bringing a coat if the temperature is below 50 degrees. 
 ##    If the temperature is below 40 degrees, it should suggest wearing a coat, hat and scarf. 
 ##    If the temperature is above 50 degrees it should only suggest an activity.
 ##    (Requires at least 3 tests)
 
-## 4. Sometimes you like to spend the day indoors, regardless of the weather. Write a function that takes in two arguments: weather, and indoor or outdoor preference.
+## 4. Sometimes you like to spend the day indoors, regardless of the weather. Write a function called `ultimate_check` that takes in two arguments: weather, and indoor or outdoor preference.
 ##    If weather is sunny and preference is outdoors, suggest going for a bike ride.
 ##    If weather is sunny and preference is indoors, suggest working on a jigsaw puzzle.
 ##    If weather is windy and preference is indoors, suggest flying a kite at the park.
@@ -29,4 +29,4 @@ def perfect_day(weather):
 ##    If weather is cloudy and the preference is indoors, suggest cozying up with your favorite book.
 ##    (Requires at least 6 tests)
 
-## 5. [STRETCH] Challenge yourself to add more suggestions based on other weather conditions that we haven't covered yet. If the user enters a weather condition that you don't recognize, return a error. 
+## 5. [STRETCH] Challenge yourself to add more suggestions to the `ultimate_check` function based on other weather conditions that we haven't covered yet. If the user enters a weather condition that you don't recognize, return a error. 
