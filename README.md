@@ -1,4 +1,5 @@
 # Activity Planner App
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/activity-planner-python-functions)](https://repl.it/github/upperlinecode/activity-planner-python-functions)
 
 ## The Goal
 Lately, you’ve been looking to occupy your time with more fun and stimulating activities. You love being outside and going on adventures, but are looking for new ways spend your free time. Let’s use our knowledge of functions and conditionals to build an Activity Planner that will suggest fun activities to do when you are bored.
