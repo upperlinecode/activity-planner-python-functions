@@ -23,8 +23,8 @@ def perfect_day(weather):
 ## 4. Sometimes you like to spend the day indoors, regardless of the weather. Write a function called `ultimate_check` that takes in two arguments: weather, and indoor or outdoor preference.
 ##    If weather is sunny and preference is outdoors, suggest going for a bike ride.
 ##    If weather is sunny and preference is indoors, suggest working on a jigsaw puzzle.
-##    If weather is windy and preference is indoors, suggest flying a kite at the park.
-##    If weather is windy and preference is outdoor, suggesting getting crafty and making a weather vane.
+##    If weather is windy and preference is indoors, suggesting getting crafty and making a weather vane.
+##    If weather is windy and preference is outdoor, suggest flying a kite at the park.
 ##    If weather is cloudy and preference is outdoors, suggest visiting the botanic garden.
 ##    If weather is cloudy and the preference is indoors, suggest cozying up with your favorite book.
 ##    (Requires at least 6 tests)
