@@ -5,7 +5,7 @@
 ##    (This function has two outcomes, so it requires two tests, which have been written already in the `test_planner.py` file)
 
 def perfect_day(weather):
-    return
+  return
 
 ## 2. There are some days when the weather is not ideal, but we can still get outdoors and make the most of it. Write a function, `outdoor_fun`, that does the following:
 ##    If the weather is cloudy, it should suggest taking a trip to the botanic garden.
