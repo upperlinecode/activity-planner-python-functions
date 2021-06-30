@@ -17,7 +17,7 @@ def perfect_day(weather):
 ##    Like the previous function, it should recommend an activity based on the weather conditions. 
 ##    Additionally, it should suggest bringing a coat if the temperature is below 50 degrees. 
 ##    If the temperature is below 40 degrees, it should suggest wearing a coat, hat and scarf. 
-##    If the temperature is equal to or above 50 degrees it should only suggest an activity.
+##    If the temperature is 50 degrees or higher it should only suggest an activity.
 ##    (Requires at least 3 tests)
 
 ## 4. Sometimes you like to spend the day indoors, regardless of the weather. Write a function called `ultimate_check` that takes in two arguments: weather, and indoor or outdoor preference.
